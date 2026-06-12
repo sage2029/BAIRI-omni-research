@@ -17,7 +17,7 @@ An end-to-end framework integrating tokenization-free character-level text featu
 ## Quick Start
 ```bash
 # Clone and install dependencies
-git clone [https://github.com/sage2029/cs-ai-research.git](https://github.com/sage2029/cs-ai-research.git)
+git clone [https://github.com/sage2029/BAIRI-omni-research.git](https://github.com/sage2029/cs-ai-research.git)
 cd its-hybrid-nlp-dkt-burmese
 pip install -r requirements.txt
 
