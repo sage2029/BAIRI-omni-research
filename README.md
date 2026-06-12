@@ -1,6 +1,6 @@
 # Integrating Natural Language Processing with Deep Knowledge Tracing in ITS for Low-Resource Languages
 
-[![Paper Status](https://www.researchsquare.com/article/rs-9991485/v1)](#)
+[📝 Paper Status: Research Square](https://www.researchsquare.com/article/rs-9991485/v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end framework integrating tokenization-free character-level text features with a gated recurrent (LSTM) Deep Knowledge Tracing network core tailored specifically for non-segmented scripts like Burmese STEM curricula.
