@@ -1,0 +1,32 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+
+# Data and models (Never commit raw datasets or heavy weights)
+data/*.json
+data/*.csv
+models/
+*.pt
+*.pth
+*.pkl
+
+# Logs and diagnostics
+logs/
+*.log
+.ipynb_checkpoints/
